@@ -1,0 +1,729 @@
+2024-04-02 10:40:28,527 - root - INFO - ********** Test_001_Login **********
+2024-04-02 10:40:28,527 - root - INFO - ********** Verifying Home Page Title **********
+2024-04-02 10:40:29,501 - root - INFO - ********** Home page title test passed **********
+2024-04-02 10:40:35,312 - root - INFO - ********** Verifying Login test **********
+2024-04-02 10:40:39,064 - root - INFO - ********** Login test passed **********
+2024-04-02 13:56:53,361 - root - INFO - ********** Test_001_Login **********
+2024-04-02 13:56:53,438 - root - INFO - ********** Verifying Home Page Title **********
+2024-04-02 13:57:00,950 - root - INFO - ********** Home page title test passed **********
+2024-04-02 13:57:12,925 - root - INFO - ********** Verifying Login test **********
+2024-04-02 13:57:15,806 - root - INFO - ********** Login test passed **********
+2024-04-02 13:59:36,150 - root - INFO - ********** Test_001_Login **********
+2024-04-02 13:59:36,150 - root - INFO - ********** Verifying Home Page Title **********
+2024-04-02 13:59:42,217 - root - INFO - ********** Home page title test passed **********
+2024-04-02 13:59:53,219 - root - INFO - ********** Verifying Login test **********
+2024-04-02 14:00:07,498 - root - INFO - ********** Login test passed **********
+2024-04-02 14:05:43,729 - root - INFO - ********** Test_001_Login **********
+2024-04-02 14:05:43,729 - root - INFO - ********** Verifying Home Page Title **********
+2024-04-02 14:11:09,099 - root - INFO - ********** Test_001_Login **********
+2024-04-02 14:11:09,099 - root - INFO - ********** Verifying Home Page Title **********
+2024-04-02 14:11:21,452 - root - INFO - ********** Home page title test passed **********
+2024-04-02 14:11:25,630 - root - INFO - ********** Verifying Login test **********
+2024-04-02 14:11:39,892 - root - INFO - ********** Login test passed **********
+2024-04-02 14:28:03,197 - root - INFO - ********** Verifying Login test **********
+2024-04-02 14:28:09,609 - root - INFO - ********** Login test passed **********
+2024-04-02 14:28:10,804 - root - INFO - ********** Test_001_Login **********
+2024-04-02 14:28:10,804 - root - INFO - ********** Verifying Home Page Title **********
+2024-04-02 14:28:12,054 - root - INFO - ********** Home page title test passed **********
+2024-04-02 14:40:25,774 - root - INFO - ********** test_homePageTitle() Test Case **********
+2024-04-02 14:40:25,857 - root - INFO - ********** Verifying Home Page Title test - start **********
+2024-04-02 14:40:29,122 - root - INFO - ********** test_login() Test Case **********
+2024-04-02 14:40:29,122 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-02 14:40:35,919 - root - INFO - ********** Home page title test passed **********
+2024-04-02 14:40:37,615 - root - INFO - ********** Login test passed **********
+2024-04-02 15:18:16,655 - root - INFO - ********** test_homePageTitle() Test Case **********
+2024-04-02 15:18:16,656 - root - INFO - ********** Verifying Home Page Title test - start **********
+2024-04-02 15:18:23,458 - root - INFO - ********** test_login() Test Case **********
+2024-04-02 15:18:23,458 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-02 15:18:23,588 - root - INFO - ********** Home page title test passed **********
+2024-04-02 15:18:33,252 - root - INFO - ********** Login test passed **********
+2024-04-03 10:48:34,701 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 10:48:34,718 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 10:52:32,864 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 10:52:32,864 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 11:07:13,635 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 11:07:13,635 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 11:07:29,871 - root - INFO - ************ Passed ***********
+2024-04-03 11:07:30,186 - root - INFO - Login DDT test case passed . . .
+2024-04-03 11:08:56,320 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 11:08:56,320 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 11:09:04,183 - root - INFO - ************ Passed ***********
+2024-04-03 11:09:04,516 - root - INFO - Login DDT test case passed . . .
+2024-04-03 11:12:43,173 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 11:12:43,173 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 11:12:56,294 - root - INFO - ************ Passed ***********
+2024-04-03 11:12:56,978 - root - INFO - Login DDT test case passed . . .
+2024-04-03 11:47:47,002 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 11:47:47,027 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 11:47:59,586 - root - INFO - ************ Passed ***********
+2024-04-03 11:47:59,922 - root - INFO - Login DDT test case passed . . .
+2024-04-03 11:57:23,520 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 11:57:23,523 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 11:57:35,586 - root - INFO - ************ Passed ***********
+2024-04-03 11:57:35,878 - root - INFO - ***** Login DDT test case passed *****
+2024-04-03 11:59:45,844 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 11:59:45,844 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 11:59:54,372 - root - INFO - ************ Passed ***********
+2024-04-03 11:59:54,687 - root - INFO - ***** Login DDT test case passed *****
+2024-04-03 12:04:39,077 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 12:04:39,178 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 12:04:53,217 - root - INFO - ************ Passed ***********
+2024-04-03 12:04:53,524 - root - INFO - ***** Login DDT test case passed *****
+2024-04-03 12:05:24,168 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 12:05:24,244 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 12:05:37,571 - root - INFO - ************ Passed ***********
+2024-04-03 12:05:37,887 - root - INFO - ***** Login DDT test case passed *****
+2024-04-03 12:05:43,363 - root - INFO - ************ Failed ***********
+2024-04-03 12:05:43,671 - root - INFO - ***** Login DDT test case failed *****
+2024-04-03 12:07:39,920 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 12:07:39,920 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 12:07:48,782 - root - INFO - ************ Passed ***********
+2024-04-03 12:07:49,153 - root - INFO - ***** Login DDT test case passed *****
+2024-04-03 12:07:54,589 - root - INFO - ************ Failed ***********
+2024-04-03 12:07:54,903 - root - INFO - ***** Login DDT test case failed *****
+2024-04-03 12:13:16,245 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 12:13:16,245 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 12:13:27,641 - root - INFO - ************ Passed ***********
+2024-04-03 12:16:12,255 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 12:16:12,255 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 12:16:19,656 - root - INFO - ************ Passed ***********
+2024-04-03 12:16:20,102 - root - INFO - ***** Login DDT test case passed *****
+2024-04-03 12:16:25,574 - root - INFO - ************ Failed ***********
+2024-04-03 12:16:25,911 - root - INFO - ***** Login DDT test case failed *****
+2024-04-03 12:20:45,307 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 12:20:45,308 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 12:20:51,998 - root - INFO - ************ Passed ***********
+2024-04-03 12:20:52,304 - root - INFO - ***** Login DDT test case passed *****
+2024-04-03 12:20:57,739 - root - INFO - ************ Failed ***********
+2024-04-03 12:20:58,033 - root - INFO - ***** Login DDT test case failed *****
+2024-04-03 13:04:11,221 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:04:11,221 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:04:20,776 - root - INFO - ************ Page Title correct & test exp = pass, TC Passed ***********
+2024-04-03 13:04:21,604 - root - INFO - ***** Login DDT test case passed *****
+2024-04-03 13:04:27,267 - root - INFO - ************ Page Title correct & test exp = fail, TC Failed ***********
+2024-04-03 13:04:27,617 - root - INFO - ***** Login DDT test case failed *****
+2024-04-03 13:12:56,017 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:12:56,017 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:16:10,860 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:16:10,861 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:16:24,820 - root - INFO - ************ Page Title correct & test exp = pass, TC Passed ***********
+2024-04-03 13:16:25,165 - root - INFO - ***** Login DDT test case passed *****
+2024-04-03 13:16:30,652 - root - INFO - ************ Page Title correct & test exp = fail, TC Failed ***********
+2024-04-03 13:16:30,962 - root - INFO - ***** Login DDT test case failed *****
+2024-04-03 13:20:29,545 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:20:29,546 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:20:43,418 - root - INFO - ************ Page Title correct & test exp = pass, TC Passed ***********
+2024-04-03 13:20:43,719 - root - INFO - ***** Login DDT test case passed *****
+2024-04-03 13:20:49,176 - root - INFO - ************ Page Title correct & test exp = fail, TC Failed ***********
+2024-04-03 13:20:49,467 - root - INFO - ***** Login DDT test case failed *****
+2024-04-03 13:25:04,998 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:25:04,998 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:25:11,026 - root - INFO - ************ Page Title incorrect & test exp = fail, TC Passed ***********
+2024-04-03 13:28:28,610 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:28:28,610 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:30:04,588 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:30:04,589 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:32:15,446 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:32:15,446 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:32:23,008 - root - INFO - ************ Page Title correct & test exp = pass, TC Passed ***********
+2024-04-03 13:32:23,297 - root - INFO - ***** Login DDT test case passed *****
+2024-04-03 13:32:28,757 - root - INFO - ************ Page Title correct & test exp = fail, TC Failed ***********
+2024-04-03 13:32:29,027 - root - INFO - ***** Login DDT test case failed *****
+2024-04-03 13:42:40,234 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:42:40,234 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:42:51,400 - root - INFO - ************ Login successful and expecting pass, TC Passed ***********
+2024-04-03 13:42:57,247 - root - INFO - ************ Login successful but expecting fail, TC Failed ***********
+2024-04-03 13:43:02,869 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-03 13:47:29,911 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:47:29,911 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:47:37,991 - root - INFO - ************ Login successful and expecting pass, TC Passed ***********
+2024-04-03 13:47:38,282 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-03 13:47:43,735 - root - INFO - ************ Login successful but expecting fail, TC Failed ***********
+2024-04-03 13:47:44,053 - root - INFO - ***** Login DDT test cases failed *****
+2024-04-03 13:53:29,986 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:53:29,986 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:53:37,771 - root - INFO - ************ Login successful and expecting pass, TC Passed ***********
+2024-04-03 13:53:38,098 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-03 13:53:43,429 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-03 13:56:42,751 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:56:42,751 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:56:52,253 - root - INFO - ************ Login successful and expecting pass, TC Passed ***********
+2024-04-03 13:56:52,552 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-03 13:56:57,897 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-03 13:56:57,897 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-03 13:57:03,189 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-03 13:57:03,189 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-03 13:57:08,494 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-03 13:57:08,494 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-03 13:57:08,915 - root - INFO - *************** End of Test_002_DDT_Login Test ***************
+2024-04-03 13:57:08,915 - root - INFO - ***************** Login DDT Test - completed *****************
+2024-04-03 13:57:59,144 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:57:59,144 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:58:06,035 - root - INFO - ************ Login successful and expecting pass, TC Passed ***********
+2024-04-03 13:58:06,337 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-03 13:58:38,089 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-03 13:58:38,090 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-03 13:58:50,208 - root - INFO - ************ Login successful and expecting pass, TC Passed ***********
+2024-04-03 13:58:50,502 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-03 13:58:55,876 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-03 13:58:55,876 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-03 13:59:01,168 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-03 13:59:01,168 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-03 13:59:06,451 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-03 13:59:06,451 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-03 13:59:08,958 - root - INFO - *************** End of Test_002_DDT_Login Test ***************
+2024-04-03 13:59:08,958 - root - INFO - ***************** Login DDT Test - completed *****************
+2024-04-04 09:14:41,236 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-04 09:14:41,258 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-04 09:14:50,378 - root - INFO - ************ Login successful and expecting pass, TC Passed ***********
+2024-04-04 09:14:51,852 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 09:14:57,313 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 09:14:57,313 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 09:15:02,644 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 09:15:02,644 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 09:15:07,952 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 09:15:07,952 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 09:15:08,438 - root - INFO - *************** End of Test_002_DDT_Login Test ***************
+2024-04-04 09:15:08,438 - root - INFO - ***************** Login DDT Test - completed *****************
+2024-04-04 09:15:38,381 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-04 09:15:38,381 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-04 09:15:45,933 - root - INFO - ************ Login successful and expecting pass, TC Passed ***********
+2024-04-04 09:15:46,289 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 09:16:04,270 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-04 09:16:04,383 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-04 09:16:18,294 - root - INFO - ************ Login successful and expecting pass, TC Passed ***********
+2024-04-04 09:16:18,649 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 09:16:24,024 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 09:16:24,025 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 09:16:29,340 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 09:16:29,340 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 09:16:34,637 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 09:16:34,637 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 09:16:35,098 - root - INFO - *************** End of Test_002_DDT_Login Test ***************
+2024-04-04 09:16:35,098 - root - INFO - ***************** Login DDT Test - completed *****************
+2024-04-04 15:08:09,913 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 15:12:53,306 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 15:12:57,462 - root - INFO - ************** Login Successful **************
+2024-04-04 15:12:57,463 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 15:15:04,377 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 15:15:06,571 - root - INFO - ************** Login Successful **************
+2024-04-04 15:15:06,571 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 15:25:59,443 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 15:26:02,546 - root - INFO - ************** Login Successful **************
+2024-04-04 15:26:02,546 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 15:47:26,622 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 15:47:32,628 - root - INFO - ************** Login Successful **************
+2024-04-04 15:47:32,628 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 16:02:15,315 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 16:02:17,587 - root - INFO - ************** Login Successful **************
+2024-04-04 16:02:17,587 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 16:29:24,011 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 16:29:28,101 - root - INFO - ************** Login Successful **************
+2024-04-04 16:29:28,101 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 16:33:26,201 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 16:34:47,579 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 16:34:52,563 - root - INFO - ************** Login Successful **************
+2024-04-04 16:34:52,563 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 16:37:13,165 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 16:38:33,754 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-04 16:38:33,754 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-04 16:38:43,602 - root - INFO - ************ Login successful and expecting pass, TC Passed ***********
+2024-04-04 16:38:44,187 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 16:38:49,526 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 16:38:49,526 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 16:38:54,817 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 16:38:54,817 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 16:39:00,086 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 16:39:00,086 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 16:39:00,833 - root - INFO - *************** End of Test_002_DDT_Login Test ***************
+2024-04-04 16:39:00,834 - root - INFO - ***************** Login DDT Test - completed *****************
+2024-04-04 16:39:33,181 - root - INFO - *************** Test_002_DDT_Login ***************
+2024-04-04 16:39:33,182 - root - INFO - ******** Verifying Login DDT Test - start ********
+2024-04-04 16:39:40,411 - root - INFO - ************ Login successful and expecting pass, TC Passed ***********
+2024-04-04 16:39:40,736 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 16:39:46,068 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 16:39:46,068 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 16:39:51,370 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 16:39:51,370 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 16:39:56,688 - root - INFO - ************ Login unsuccessful & expecting fail, TC Passed ***********
+2024-04-04 16:39:56,688 - root - INFO - ***** Login DDT test cases passed *****
+2024-04-04 16:39:58,578 - root - INFO - *************** End of Test_002_DDT_Login Test ***************
+2024-04-04 16:39:58,578 - root - INFO - ***************** Login DDT Test - completed *****************
+2024-04-04 16:40:21,919 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 16:40:24,081 - root - INFO - ************** Login Successful **************
+2024-04-04 16:40:24,081 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 16:43:01,031 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 16:43:02,776 - root - INFO - ************** Login Successful **************
+2024-04-04 16:43:02,777 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 16:47:27,126 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 16:47:34,811 - root - INFO - ************** Login Successful **************
+2024-04-04 16:47:34,811 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 16:57:20,118 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 16:57:21,707 - root - INFO - ************** Login Successful **************
+2024-04-04 16:57:21,707 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 17:04:49,917 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 17:04:51,987 - root - INFO - ************** Login Successful **************
+2024-04-04 17:04:51,987 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 17:21:28,512 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 17:21:31,651 - root - INFO - ************** Login Successful **************
+2024-04-04 17:21:31,651 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 17:21:36,764 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 17:22:17,178 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 17:22:19,880 - root - INFO - ************** Login Successful **************
+2024-04-04 17:22:19,880 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 17:29:09,092 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 17:29:11,296 - root - INFO - ************** Login Successful **************
+2024-04-04 17:29:11,296 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 17:29:22,899 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 17:30:54,591 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 17:30:58,438 - root - INFO - ************** Login Successful **************
+2024-04-04 17:30:58,439 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 17:31:29,229 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 17:39:34,804 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 17:40:06,500 - root - INFO - ************** Login Successful **************
+2024-04-04 17:40:06,500 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 17:40:37,348 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 17:45:22,047 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 17:45:38,669 - root - INFO - ************** Login Successful **************
+2024-04-04 17:45:38,669 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 17:45:54,265 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 17:56:38,073 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 17:56:54,372 - root - INFO - ************** Login Successful **************
+2024-04-04 17:56:54,372 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 17:57:10,015 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 18:00:10,134 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 18:00:27,797 - root - INFO - ************** Login Successful **************
+2024-04-04 18:00:27,797 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 18:00:43,388 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 18:03:13,295 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 18:03:29,827 - root - INFO - ************** Login Successful **************
+2024-04-04 18:03:29,827 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 18:03:45,547 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 18:13:01,347 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 18:13:18,543 - root - INFO - ************** Login Successful **************
+2024-04-04 18:13:18,543 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 18:13:34,211 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 18:13:59,262 - root - INFO - ************ Saving Customer Info ***********
+2024-04-04 18:13:59,262 - root - INFO - ********** Add Customer Validation **********
+2024-04-04 18:17:20,069 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 18:17:37,993 - root - INFO - ************** Login Successful **************
+2024-04-04 18:17:37,993 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 18:17:53,856 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 18:18:18,847 - root - INFO - ************ Saving Customer Info ***********
+2024-04-04 18:18:18,847 - root - INFO - ********** Add Customer Validation **********
+2024-04-04 18:20:49,698 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 18:21:07,150 - root - INFO - ************** Login Successful **************
+2024-04-04 18:21:07,150 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 18:21:23,685 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 18:21:48,587 - root - INFO - ************ Saving Customer Info ***********
+2024-04-04 18:21:48,587 - root - INFO - ********** Add Customer Validation **********
+2024-04-04 18:21:48,907 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-04 18:21:49,203 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-04 19:38:13,411 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-04 19:38:18,123 - root - INFO - ************** Login Successful **************
+2024-04-04 19:38:18,123 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-04 19:38:28,003 - root - INFO - ********** Providing Customer Info ***********
+2024-04-04 19:38:31,982 - root - INFO - ************ Saving Customer Info ***********
+2024-04-04 19:38:31,982 - root - INFO - ********** Add Customer Validation **********
+2024-04-04 19:38:32,256 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-04 19:38:33,031 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-05 08:44:08,490 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-05 08:44:18,745 - root - INFO - ************** Login Successful **************
+2024-04-05 08:44:18,745 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-05 08:44:28,692 - root - INFO - ********** Providing Customer Info ***********
+2024-04-05 08:44:32,663 - root - INFO - ************ Saving Customer Info ***********
+2024-04-05 08:44:32,663 - root - INFO - ********** Add Customer Validation **********
+2024-04-05 08:44:33,611 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-05 08:44:34,566 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-05 10:15:24,534 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-05 10:15:27,869 - root - INFO - ****************** Loging Successful ******************
+2024-04-05 10:15:27,869 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-05 10:24:48,136 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-05 10:24:50,687 - root - INFO - ****************** Loging Successful ******************
+2024-04-05 10:24:50,687 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-05 10:25:00,101 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-05 10:27:41,017 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-05 10:27:42,859 - root - INFO - ****************** Loging Successful ******************
+2024-04-05 10:27:42,860 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-05 10:27:52,249 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-05 10:27:57,441 - root - INFO - ********** TC_SearchCustomerByEmail_004 Completed **********
+2024-04-09 08:26:19,365 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 08:26:27,218 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 08:26:27,219 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 08:26:36,812 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 08:26:42,518 - root - INFO - ********** TC_SearchCustomerByEmail_004 Completed **********
+2024-04-09 08:36:51,104 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 08:36:54,213 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 08:36:54,214 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 08:37:03,699 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 08:39:01,580 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 08:39:14,768 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 08:39:14,768 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 08:39:24,475 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 08:39:29,767 - root - INFO - ********** TC_SearchCustomerByEmail_004 Completed **********
+2024-04-09 08:40:49,727 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 08:40:51,546 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 08:40:51,547 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 08:41:01,015 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 08:45:11,046 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 08:45:13,537 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 08:45:13,537 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 08:45:23,275 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 08:45:28,580 - root - INFO - ********** TC_SearchCustomerByEmail_004 Completed **********
+2024-04-09 08:46:19,846 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 08:46:27,325 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 08:46:27,325 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 08:46:36,828 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 08:46:42,119 - root - INFO - ********** TC_SearchCustomerByEmail_004 Completed **********
+2024-04-09 08:48:11,465 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 08:48:15,171 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 08:48:15,171 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 08:48:24,867 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 08:56:51,094 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 08:56:53,798 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 08:56:53,798 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 08:57:03,345 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 08:57:08,650 - root - INFO - ********** TC_SearchCustomerByEmail_004 Completed **********
+2024-04-09 08:57:08,650 - root - INFO - ********** TC_SearchCustomerByEmail_004 Completed **********
+2024-04-09 08:58:25,445 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 08:58:27,862 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 08:58:27,863 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 08:58:37,379 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 09:00:55,446 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 09:01:03,963 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 09:01:03,964 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 09:01:13,485 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 09:01:18,796 - root - INFO - ********** TC_SearchCustomerByEmail_004 Completed **********
+2024-04-09 09:04:32,574 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 09:04:40,842 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 09:04:40,842 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 09:04:50,371 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 09:04:55,619 - root - INFO - ********** TC_SearchCustomerByEmail_004 Completed **********
+2024-04-09 09:11:45,986 - root - INFO - ****************** SearchCustomerByEmail_004 ******************
+2024-04-09 09:11:53,126 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 09:11:53,127 - root - INFO - ********** Starting Search Customer By Email **********
+2024-04-09 09:12:02,632 - root - INFO - ********** Searching Customer by emailID **********
+2024-04-09 09:12:07,890 - root - INFO - ********** TC_SearchCustomerByEmail_004 Completed **********
+2024-04-09 09:12:37,008 - root - INFO - ****************** SearchCustomerByName_005 ******************
+2024-04-09 09:12:39,583 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 09:12:39,583 - root - INFO - ********** Starting Search Customer By Name **********
+2024-04-09 09:12:49,253 - root - INFO - ********** Searching Customer by Name **********
+2024-04-09 09:23:04,178 - root - INFO - ****************** SearchCustomerByName_005 ******************
+2024-04-09 09:23:12,774 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 09:23:12,774 - root - INFO - ********** Starting Search Customer By Name **********
+2024-04-09 09:23:22,478 - root - INFO - ********** Searching Customer by Name **********
+2024-04-09 09:26:28,322 - root - INFO - ****************** SearchCustomerByName_005 ******************
+2024-04-09 09:26:32,570 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 09:26:32,570 - root - INFO - ********** Starting Search Customer By Name **********
+2024-04-09 09:26:42,092 - root - INFO - ********** Searching Customer by Name **********
+2024-04-09 09:32:34,378 - root - INFO - ****************** SearchCustomerByName_005 ******************
+2024-04-09 09:32:43,344 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 09:32:43,344 - root - INFO - ********** Starting Search Customer By Name **********
+2024-04-09 09:32:53,054 - root - INFO - ********** Searching Customer by Name **********
+2024-04-09 09:33:58,607 - root - INFO - ****************** SearchCustomerByName_005 ******************
+2024-04-09 09:34:05,570 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 09:34:05,571 - root - INFO - ********** Starting Search Customer By Name **********
+2024-04-09 09:34:15,062 - root - INFO - ********** Searching Customer by Name **********
+2024-04-09 09:35:24,204 - root - INFO - ****************** SearchCustomerByName_005 ******************
+2024-04-09 09:35:29,778 - root - INFO - ****************** Loging Successful ******************
+2024-04-09 09:35:29,778 - root - INFO - ********** Starting Search Customer By Name **********
+2024-04-09 09:35:39,260 - root - INFO - ********** Searching Customer by Name **********
+2024-04-09 09:35:44,598 - root - INFO - ********** TC_SearchCustomerByName_005 Completed **********
+2024-04-11 11:21:20,022 - root - INFO - ****************** SearchCustomerByName_005 ******************
+2024-04-11 11:21:27,458 - root - INFO - ****************** Loging Successful ******************
+2024-04-11 11:21:27,458 - root - INFO - ********** Starting Search Customer By Name **********
+2024-04-11 11:22:24,539 - root - INFO - ****************** SearchCustomerByName_005 ******************
+2024-04-11 11:22:33,365 - root - INFO - ****************** Loging Successful ******************
+2024-04-11 11:22:33,365 - root - INFO - ********** Starting Search Customer By Name **********
+2024-04-11 11:22:42,897 - root - INFO - ********** Searching Customer by Name **********
+2024-04-11 11:22:48,227 - root - INFO - ********** TC_SearchCustomerByName_005 Completed **********
+2024-04-11 11:28:06,000 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 11:28:06,000 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 11:28:06,000 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 11:28:06,000 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 11:28:06,000 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 11:28:08,213 - root - INFO - ************** Login Successful **************
+2024-04-11 11:28:08,213 - root - INFO - ************** Login Successful **************
+2024-04-11 11:28:08,213 - root - INFO - ************** Login Successful **************
+2024-04-11 11:28:08,213 - root - INFO - ************** Login Successful **************
+2024-04-11 11:28:08,213 - root - INFO - ************** Login Successful **************
+2024-04-11 11:28:08,213 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 11:28:08,213 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 11:28:08,213 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 11:28:08,213 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 11:28:08,213 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 11:28:18,151 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 11:28:18,151 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 11:28:18,151 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 11:28:18,151 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 11:28:18,151 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 11:28:22,144 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 11:28:22,144 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 11:28:22,144 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 11:28:22,144 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 11:28:22,144 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 11:28:22,144 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 11:28:22,144 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 11:28:22,144 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 11:28:22,144 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 11:28:22,144 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 11:28:22,416 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 11:28:22,416 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 11:28:22,416 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 11:28:22,416 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 11:28:22,416 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 11:28:22,820 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 11:28:22,820 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 11:28:22,820 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 11:28:22,820 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 11:28:22,820 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 11:28:30,714 - root - INFO - ********** test_homePageTitle() Test Case **********
+2024-04-11 11:28:30,714 - root - INFO - ********** test_homePageTitle() Test Case **********
+2024-04-11 11:28:30,714 - root - INFO - ********** test_homePageTitle() Test Case **********
+2024-04-11 11:28:30,714 - root - INFO - ********** test_homePageTitle() Test Case **********
+2024-04-11 11:28:30,714 - root - INFO - ********** test_homePageTitle() Test Case **********
+2024-04-11 11:28:30,714 - root - INFO - ********** Verifying Home Page Title test - start **********
+2024-04-11 11:28:30,714 - root - INFO - ********** Verifying Home Page Title test - start **********
+2024-04-11 11:28:30,714 - root - INFO - ********** Verifying Home Page Title test - start **********
+2024-04-11 11:28:30,714 - root - INFO - ********** Verifying Home Page Title test - start **********
+2024-04-11 11:28:30,714 - root - INFO - ********** Verifying Home Page Title test - start **********
+2024-04-11 11:28:31,839 - root - INFO - ********** Home page title test passed **********
+2024-04-11 11:28:31,839 - root - INFO - ********** Home page title test passed **********
+2024-04-11 11:28:31,839 - root - INFO - ********** Home page title test passed **********
+2024-04-11 11:28:31,839 - root - INFO - ********** Home page title test passed **********
+2024-04-11 11:28:31,839 - root - INFO - ********** Home page title test passed **********
+2024-04-11 11:28:38,645 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 11:28:38,645 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 11:28:38,645 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 11:28:38,645 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 11:28:38,645 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 11:28:38,645 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 11:28:38,645 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 11:28:38,645 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 11:28:38,645 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 11:28:38,645 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 11:28:41,657 - root - INFO - ********** Login test passed **********
+2024-04-11 11:28:41,657 - root - INFO - ********** Login test passed **********
+2024-04-11 11:28:41,657 - root - INFO - ********** Login test passed **********
+2024-04-11 11:28:41,657 - root - INFO - ********** Login test passed **********
+2024-04-11 11:28:41,657 - root - INFO - ********** Login test passed **********
+2024-04-11 11:43:18,277 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 11:43:18,277 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 11:43:18,277 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 11:43:18,277 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 11:43:18,277 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 11:43:20,371 - root - INFO - ************** Login Successful **************
+2024-04-11 11:43:20,371 - root - INFO - ************** Login Successful **************
+2024-04-11 11:43:20,371 - root - INFO - ************** Login Successful **************
+2024-04-11 11:43:20,371 - root - INFO - ************** Login Successful **************
+2024-04-11 11:43:20,371 - root - INFO - ************** Login Successful **************
+2024-04-11 11:43:20,371 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 11:43:20,371 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 11:43:20,371 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 11:43:20,371 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 11:43:20,371 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 11:43:30,102 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 11:43:30,102 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 11:43:30,102 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 11:43:30,102 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 11:43:30,102 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 11:43:34,234 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 11:43:34,234 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 11:43:34,234 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 11:43:34,234 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 11:43:34,234 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 11:43:34,234 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 11:43:34,234 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 11:43:34,234 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 11:43:34,234 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 11:43:34,234 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 11:43:34,621 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 11:43:34,621 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 11:43:34,621 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 11:43:34,621 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 11:43:34,621 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 11:43:35,072 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 11:43:35,072 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 11:43:35,072 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 11:43:35,072 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 11:43:35,072 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 11:43:42,808 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 11:43:42,808 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 11:43:42,808 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 11:43:42,808 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 11:43:42,808 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 11:43:42,808 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 11:43:42,808 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 11:43:42,808 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 11:43:42,808 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 11:43:42,808 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 11:43:46,051 - root - INFO - ********** Login test passed **********
+2024-04-11 11:43:46,051 - root - INFO - ********** Login test passed **********
+2024-04-11 11:43:46,051 - root - INFO - ********** Login test passed **********
+2024-04-11 11:43:46,051 - root - INFO - ********** Login test passed **********
+2024-04-11 11:43:46,051 - root - INFO - ********** Login test passed **********
+2024-04-11 17:03:23,895 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 17:03:23,895 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 17:03:23,895 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 17:03:23,895 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 17:03:23,895 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-11 17:03:30,012 - root - INFO - ************** Login Successful **************
+2024-04-11 17:03:30,012 - root - INFO - ************** Login Successful **************
+2024-04-11 17:03:30,012 - root - INFO - ************** Login Successful **************
+2024-04-11 17:03:30,012 - root - INFO - ************** Login Successful **************
+2024-04-11 17:03:30,012 - root - INFO - ************** Login Successful **************
+2024-04-11 17:03:30,012 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 17:03:30,012 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 17:03:30,012 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 17:03:30,012 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 17:03:30,012 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-11 17:03:41,072 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 17:03:41,072 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 17:03:41,072 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 17:03:41,072 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 17:03:41,072 - root - INFO - ********** Providing Customer Info ***********
+2024-04-11 17:03:46,877 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 17:03:46,877 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 17:03:46,877 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 17:03:46,877 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 17:03:46,877 - root - INFO - ************ Saving Customer Info ***********
+2024-04-11 17:03:46,877 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 17:03:46,877 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 17:03:46,877 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 17:03:46,877 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 17:03:46,877 - root - INFO - ********** Add Customer Validation **********
+2024-04-11 17:03:47,118 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 17:03:47,118 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 17:03:47,118 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 17:03:47,118 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 17:03:47,118 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-11 17:03:47,793 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 17:03:47,793 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 17:03:47,793 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 17:03:47,793 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 17:03:47,793 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-11 17:03:49,627 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 17:03:49,627 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 17:03:49,627 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 17:03:49,627 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 17:03:49,627 - root - INFO - ********** test_login() Test Case **********
+2024-04-11 17:03:49,628 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 17:03:49,628 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 17:03:49,628 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 17:03:49,628 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 17:03:49,628 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-11 17:03:56,283 - root - INFO - ********** Login test passed **********
+2024-04-11 17:03:56,283 - root - INFO - ********** Login test passed **********
+2024-04-11 17:03:56,283 - root - INFO - ********** Login test passed **********
+2024-04-11 17:03:56,283 - root - INFO - ********** Login test passed **********
+2024-04-11 17:03:56,283 - root - INFO - ********** Login test passed **********
+2024-04-12 09:47:14,008 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-12 09:47:14,008 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-12 09:47:14,008 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-12 09:47:14,008 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-12 09:47:14,008 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-12 09:47:16,741 - root - INFO - ************** Login Successful **************
+2024-04-12 09:47:16,741 - root - INFO - ************** Login Successful **************
+2024-04-12 09:47:16,741 - root - INFO - ************** Login Successful **************
+2024-04-12 09:47:16,741 - root - INFO - ************** Login Successful **************
+2024-04-12 09:47:16,741 - root - INFO - ************** Login Successful **************
+2024-04-12 09:47:16,742 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-12 09:47:16,742 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-12 09:47:16,742 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-12 09:47:16,742 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-12 09:47:16,742 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-12 09:47:26,678 - root - INFO - ********** Providing Customer Info ***********
+2024-04-12 09:47:26,678 - root - INFO - ********** Providing Customer Info ***********
+2024-04-12 09:47:26,678 - root - INFO - ********** Providing Customer Info ***********
+2024-04-12 09:47:26,678 - root - INFO - ********** Providing Customer Info ***********
+2024-04-12 09:47:26,678 - root - INFO - ********** Providing Customer Info ***********
+2024-04-12 09:47:30,647 - root - INFO - ************ Saving Customer Info ***********
+2024-04-12 09:47:30,647 - root - INFO - ************ Saving Customer Info ***********
+2024-04-12 09:47:30,647 - root - INFO - ************ Saving Customer Info ***********
+2024-04-12 09:47:30,647 - root - INFO - ************ Saving Customer Info ***********
+2024-04-12 09:47:30,647 - root - INFO - ************ Saving Customer Info ***********
+2024-04-12 09:47:30,647 - root - INFO - ********** Add Customer Validation **********
+2024-04-12 09:47:30,647 - root - INFO - ********** Add Customer Validation **********
+2024-04-12 09:47:30,647 - root - INFO - ********** Add Customer Validation **********
+2024-04-12 09:47:30,647 - root - INFO - ********** Add Customer Validation **********
+2024-04-12 09:47:30,647 - root - INFO - ********** Add Customer Validation **********
+2024-04-12 09:47:30,952 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-12 09:47:30,952 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-12 09:47:30,952 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-12 09:47:30,952 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-12 09:47:30,952 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-12 09:47:33,256 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-12 09:47:33,256 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-12 09:47:33,256 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-12 09:47:33,256 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-12 09:47:33,256 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-12 09:47:34,898 - root - INFO - ********** test_login() Test Case **********
+2024-04-12 09:47:34,898 - root - INFO - ********** test_login() Test Case **********
+2024-04-12 09:47:34,898 - root - INFO - ********** test_login() Test Case **********
+2024-04-12 09:47:34,898 - root - INFO - ********** test_login() Test Case **********
+2024-04-12 09:47:34,898 - root - INFO - ********** test_login() Test Case **********
+2024-04-12 09:47:34,898 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-12 09:47:34,898 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-12 09:47:34,898 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-12 09:47:34,898 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-12 09:47:34,898 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-12 09:47:44,238 - root - INFO - ********** Login test passed **********
+2024-04-12 09:47:44,238 - root - INFO - ********** Login test passed **********
+2024-04-12 09:47:44,238 - root - INFO - ********** Login test passed **********
+2024-04-12 09:47:44,238 - root - INFO - ********** Login test passed **********
+2024-04-12 09:47:44,238 - root - INFO - ********** Login test passed **********
+2024-04-12 09:48:04,855 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-12 09:48:04,855 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-12 09:48:04,855 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-12 09:48:04,855 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-12 09:48:04,855 - root - INFO - ************** Test_003_AddCustomer **************
+2024-04-12 09:48:09,229 - root - INFO - ************** Login Successful **************
+2024-04-12 09:48:09,229 - root - INFO - ************** Login Successful **************
+2024-04-12 09:48:09,229 - root - INFO - ************** Login Successful **************
+2024-04-12 09:48:09,229 - root - INFO - ************** Login Successful **************
+2024-04-12 09:48:09,229 - root - INFO - ************** Login Successful **************
+2024-04-12 09:48:09,230 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-12 09:48:09,230 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-12 09:48:09,230 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-12 09:48:09,230 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-12 09:48:09,230 - root - INFO - ********* Starting Add Customer Test *********
+2024-04-12 09:48:19,007 - root - INFO - ********** Providing Customer Info ***********
+2024-04-12 09:48:19,007 - root - INFO - ********** Providing Customer Info ***********
+2024-04-12 09:48:19,007 - root - INFO - ********** Providing Customer Info ***********
+2024-04-12 09:48:19,007 - root - INFO - ********** Providing Customer Info ***********
+2024-04-12 09:48:19,007 - root - INFO - ********** Providing Customer Info ***********
+2024-04-12 09:48:23,602 - root - INFO - ************ Saving Customer Info ***********
+2024-04-12 09:48:23,602 - root - INFO - ************ Saving Customer Info ***********
+2024-04-12 09:48:23,602 - root - INFO - ************ Saving Customer Info ***********
+2024-04-12 09:48:23,602 - root - INFO - ************ Saving Customer Info ***********
+2024-04-12 09:48:23,602 - root - INFO - ************ Saving Customer Info ***********
+2024-04-12 09:48:23,602 - root - INFO - ********** Add Customer Validation **********
+2024-04-12 09:48:23,602 - root - INFO - ********** Add Customer Validation **********
+2024-04-12 09:48:23,602 - root - INFO - ********** Add Customer Validation **********
+2024-04-12 09:48:23,602 - root - INFO - ********** Add Customer Validation **********
+2024-04-12 09:48:23,602 - root - INFO - ********** Add Customer Validation **********
+2024-04-12 09:48:23,810 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-12 09:48:23,810 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-12 09:48:23,810 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-12 09:48:23,810 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-12 09:48:23,810 - root - INFO - ********** Add Customer Test Passed **********
+2024-04-12 09:48:26,183 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-12 09:48:26,183 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-12 09:48:26,183 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-12 09:48:26,183 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-12 09:48:26,183 - root - INFO - **** Test_003_AddCustomer Test Completed ****
+2024-04-12 09:48:36,761 - root - INFO - ********** test_login() Test Case **********
+2024-04-12 09:48:36,761 - root - INFO - ********** test_login() Test Case **********
+2024-04-12 09:48:36,761 - root - INFO - ********** test_login() Test Case **********
+2024-04-12 09:48:36,761 - root - INFO - ********** test_login() Test Case **********
+2024-04-12 09:48:36,761 - root - INFO - ********** test_login() Test Case **********
+2024-04-12 09:48:36,761 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-12 09:48:36,761 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-12 09:48:36,761 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-12 09:48:36,761 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-12 09:48:36,761 - root - INFO - ********** Verifying Login Test - start **********
+2024-04-12 09:48:42,942 - root - INFO - ********** Login test passed **********
+2024-04-12 09:48:42,942 - root - INFO - ********** Login test passed **********
+2024-04-12 09:48:42,942 - root - INFO - ********** Login test passed **********
+2024-04-12 09:48:42,942 - root - INFO - ********** Login test passed **********
+2024-04-12 09:48:42,942 - root - INFO - ********** Login test passed **********
